@@ -8,7 +8,7 @@ conceitos abordados:
 - Funções limpas
 - Organização de código
 
-# 🧠 Jogo da Memória
+# 🧠 Yu-Gi-Oh | Jo-ken-po Edition
 
 Bem-vindo ao **Jogo JO-KEN-PO do Yu-Gi-Oh** — um projeto divertido, colorido e totalmente customizável criado com **HTML, CSS e JavaScript**! 🎯
 
